@@ -1,0 +1,2 @@
+time taken: 559.8007
+accuracy score: 0.8533

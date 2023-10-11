@@ -1,0 +1,11 @@
+time taken: 6666.5246
+accuracy: 0.6407
+AUROC: 0.6731
+              precision    recall  f1-score   support
+
+           0     0.7904    0.6804    0.7313       194
+           1     0.3981    0.5395    0.4581        76
+
+    accuracy                         0.6407       270
+   macro avg     0.5942    0.6099    0.5947       270
+weighted avg     0.6800    0.6407    0.6544       270
