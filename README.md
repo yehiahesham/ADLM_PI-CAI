@@ -3,6 +3,7 @@
 TUM SS2023 - Applied Deep Learning in Medicine
 
 <!-- ![Poster]()  -->
+![Poster](https://github.com/yehiahesham/ADLM_PI-CAI/blob/main/ADLM_Poster.png)
 
 ## Setup
 ### CONDA 
